@@ -1,4 +1,4 @@
 Hello world
 How are you doing.
 I am from ghana
-.pyc
+Add from dev1
